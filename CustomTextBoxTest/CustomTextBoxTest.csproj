@@ -54,7 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegExAutocompleteTextBox.cs">
+    <Compile Include="CustomAutoCompleteTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
